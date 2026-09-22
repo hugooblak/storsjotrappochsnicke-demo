@@ -18,7 +18,6 @@ return array(
 		array( 'vi är helnöjda med deras hantverk', 'Hans Ivarsson', 'för 6 år sedan' ),
 		array( 'Hög kvalité och bra service!', 'Patrik Arlid', 'för 9 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-3.jpg',
 	'ar_riktig'      => true,
 );
