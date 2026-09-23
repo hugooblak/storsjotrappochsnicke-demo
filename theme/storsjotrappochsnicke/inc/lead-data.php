@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'AB Storsjö Trapp & Snickerifabrik',
+	'bransch'        => 'Snickare',
 	'telefon'        => '013-31 08 85',
 	'telefon_tel'    => '+4613310885',
 	'ort'            => 'Linköping',
